@@ -1,6 +1,6 @@
 # inventoryapp
 
-A new Flutter project.
+An application that solves issues in Walmart. 
 
 ## Getting Started
 
